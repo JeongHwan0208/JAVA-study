@@ -8,7 +8,7 @@
 
 ### 1.2 변수의 선언과 초기화
 
-![2-1](C:\Users\pc\Desktop\HIPS\Java\Java image\2-1.jpg)
+![2-1](https://github.com/JeongHwan0208/JAVA-study/blob/main/Java/Java%20image/2-1.jpg)
 
  변수를 선언하면 메모리의 빈 공간에 **'변수 타입'**에 알맞은 크기의 저장공간이 확보되고, 이 저장공간은 **'변수이름'**을 통해 사용된다. 또한 변수의 초기화란, **변수를 사용하기 전에 처음으로 값을 저장하는 것**이다.
 
@@ -33,7 +33,8 @@
 
 ### 2.1 기본형(primitive type) 
 
-![2-2](C:\Users\pc\Desktop\HIPS\Java\Java image\2-2.jpg)
+![2-2](https://github.com/JeongHwan0208/JAVA-study/blob/main/Java/Java%20image/2-2.jpg
+)
 
 ### 2.2 상수와 리터럴(constant & literal)
 
@@ -126,7 +127,8 @@ num=22
 
 ### 3.1 10진법과 2진법
 
-![2-3](C:\Users\pc\Desktop\HIPS\Java\Java image\2-3.jpg)
+![2-3](https://github.com/JeongHwan0208/JAVA-study/blob/main/Java/Java%20image/2-3.jpg
+)
 
 ### 3.2 비트(bit)와 바이트(byte)
 
@@ -144,25 +146,25 @@ num=22
 
 ### 3.3 8진법과 16진법
 
-![2-4](C:\Users\pc\Desktop\HIPS\Java\Java image\2-4.jpg)
+![2-4](https://github.com/JeongHwan0208/JAVA-study/blob/main/Java/Java%20image/2-4.jpg)
 
  **8진수는 2 진수 3자리 // 16진수는 2진수 4자리를 각각 한자리로 표현 할 수 있다.**
 
 ###### 2진수를 8진수, 16진수 변환
 
-![2-5](C:\Users\pc\Desktop\HIPS\Java\Java image\2-5.jpg)
+![2-5](https://github.com/JeongHwan0208/JAVA-study/blob/main/Java/Java%20image/2-5.jpg)
 
 ### 3.4 정수의 진법 변환
 
 ###### 10진수를 n진수로 변환
 
-![2-6](C:\Users\pc\Desktop\HIPS\Java\Java image\2-6.jpg)
+![2-6](https://github.com/JeongHwan0208/JAVA-study/blob/main/Java/Java%20image/2-6.jpg)
 
  해당 진수로 나누고 나머지 값을 옆에 적는 것을 더 이상 나눌 수 없을 때까지 반복한 다음 마지막 몫과 나머지를 아래부터 위로 순서대로 적으면 된다.
 
 ###### n진수를 10진수로 변환
 
-![2-7](C:\Users\pc\Desktop\HIPS\Java\Java image\2-7.jpg)
+![2-7](https://github.com/JeongHwan0208/JAVA-study/blob/main/Java/Java%20image/2-7.jpg)
 
  각 자리의 수에 해당 단위의 값을 곱해서 모두 더하면 된다.
 
@@ -170,7 +172,7 @@ num=22
 
 ###### 10진 소수점수를 2진 소수점수로 변환하는 방법
 
-![2-8](C:\Users\pc\Desktop\HIPS\Java\Java image\2-8.jpg)
+![2-8](https://github.com/JeongHwan0208/JAVA-study/blob/main/Java/Java%20image/2-8.jpg)
 
 1. 10진 소수에 2를 곱한다.
 2. 소수부만 가져다가 다시 2를 곱한다.
@@ -178,11 +180,11 @@ num=22
 
 ###### 2진 소수점수를 10진 소수점수로 변환하는 방법
 
-![2-9](C:\Users\pc\Desktop\HIPS\Java\Java image\2-9.jpg)
+![2-9](https://github.com/JeongHwan0208/JAVA-study/blob/main/Java/Java%20image/2-9.jpg)
 
 ### 3.6 음수의 2진 표현 - 2의 보수법
 
-![2-10](C:\Users\pc\Desktop\HIPS\Java\Java image\2-10.jpg)
+![2-10](https://github.com/JeongHwan0208/JAVA-study/blob/main/Java/Java%20image/2-10.jpg)
 
  '2의 보수법'에 의해 음수를 배치하면, 절대값이 같은 양수와 음수를 더 했을 때 2진수로도 0을 결과로 얻으므로 부호를 신경쓰지 않고 덧셈할 수 있게 된다.
 
@@ -194,8 +196,7 @@ num=22
 
 ###### 음수를 2진수로 표현하기
 
-![2-11](C:\Users\pc\Desktop\HIPS\Java\Java image\2-11.jpg)
-
+![2-11](https://github.com/JeongHwan0208/JAVA-study/blob/main/Java/Java%20image/2-11.jpg)
 ## 기본형(primitive type)
 
 ### 4.1 논리형 - boolean
@@ -210,17 +211,18 @@ num=22
 
 ###### 특수 문자 다루기
 
-![2-12](C:\Users\pc\Desktop\HIPS\Java\Java image\2-12.jpg)
+![2-12](https://github.com/JeongHwan0208/JAVA-study/blob/main/Java/Java%20image/2-12.jpg)
 
 ###### 인코딩과 디코딩(encoding & decoding)
 
-![2-13](C:\Users\pc\Desktop\HIPS\Java\Java image\2-13.jpg)
+![2-13](https://github.com/JeongHwan0208/JAVA-study/blob/main/Java/Java%20image/2-13.jpg)
 
  문자를 코드로 변환하는 것을 '문자 인코딩', 그 반대는 인코딩을 해서 숫자로 변환해서 저장하고 저장된 문자를 읽어올 때는 디코딩을 해서 숫자를 원래의 문자로 되돌려야 한다.
 
 ### 4.3 정수형 - byte, short, int, long
 
-![2-14](C:\Users\pc\Desktop\HIPS\Java\Java image\2-14.jpg)
+![2-14](https://github.com/JeongHwan0208/JAVA-study/blob/main/Java/Java%20image/2-14.jpg
+)
 
 정수형에는 모두 4개의 자료형이 있고 단위는 byte이며,각 자료형이 저장할 수 있는 값의 범위가 서로 다르다. 기본 자료형은(default data type)은 int이다.
 
@@ -245,7 +247,7 @@ double = 정밀도 15자리 bit : 64 // byte: 8
 
 ###### 실수형의 저장형식
 
-![2-15](C:\Users\pc\Desktop\HIPS\Java\Java image\2-15.jpg)
+![2-15](https://github.com/JeongHwan0208/JAVA-study/blob/main/Java/Java%20image/2-15.jpg)
 
 ## 형변환
 
