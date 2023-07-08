@@ -18,11 +18,11 @@
 
   '자바를 실행하기 위한 가상 컴퓨터'라고 할 수 있다. 자바로 작성된 애플리케이션은 모두 이 가상 컴퓨터에서만 실행된다.
 
-![1](C:\Users\pc\Desktop\HIPS\Java\Java image\1.jpg)
+![1](https://github.com/JeongHwan0208/JAVA-study/blob/main/Java/Java%20image/1.jpg)
 
  일반 애플리케이션의 코드는 os만 거치고 하드웨어로 전달되는데 Java 애플리케이션은 JVM을 거치고 하드웨어로 가기때문에 OS와 하드웨어에 독립적이다. 단, JVM은 OS에 종속적이기 때문에 해당 OS에서 실행가능한 JVM이 필요하다.
 
-![2](C:\Users\pc\Desktop\HIPS\Java\Java image\2.jpg)
+![2](https://github.com/JeongHwan0208/JAVA-study/blob/main/Java/Java%20image/2.jpg)
 
  이렇게 함으로써 자바의 중요한 장점인 "Write once, run anywhere(한 번 작성하면 어디서든 실행된다.)"이 가능하게 된다.
 
