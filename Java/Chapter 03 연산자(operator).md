@@ -19,7 +19,8 @@
 
 ### 1.3 연산자의 종류
 
-![3-1](./Java image/3-1.jpg)
+![3-1](https://github.com/JeongHwan0208/JAVA-study/blob/main/Java/Java%20image/3-1.jpg
+)
 
 ###### 피연산자의 개수에 의한 분류
 
@@ -166,7 +167,7 @@ int형 간의 나눗셈 'int/int'를 수행하면 결과가 float나 double이 �
 
 ### 6.1 조건 연산자 ?:
 
-![3-2](C:\Users\pc\Desktop\HIPS\Java\Java image\3-2.jpg)
+![3-2](https://github.com/JeongHwan0208/JAVA-study/blob/main/Java/Java%20image/3-2.jpg)
 
 조건 연산자는 조건식, 식1, 식2 모두 세 개의 피연산자를 필요로 하는 삼항 연산자이며, 산항 연산자는 조건 연산자 하나뿐이다.
 
@@ -180,7 +181,7 @@ int형 간의 나눗셈 'int/int'를 수행하면 결과가 float나 double이 �
 
 ###### lvalue와 rvalue
 
-![3-3](C:\Users\pc\Desktop\HIPS\Java\Java image\3-3.jpg)
+![3-3](https://github.com/JeongHwan0208/JAVA-study/blob/main/Java/Java%20image/3-3.jpg)
 
 대입 연산자의 왼쪽 피연산자를 'lvalue(left value)'라 하고, 오른쪽 피연산자를 'rvalue(right value)'라고 한다.
 
