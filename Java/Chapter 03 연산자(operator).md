@@ -19,7 +19,7 @@
 
 ### 1.3 연산자의 종류
 
-![3-1](C:\Users\pc\Desktop\HIPS\Java\Java image\3-1.jpg)
+![3-1](./Java image/3-1.jpg)
 
 ###### 피연산자의 개수에 의한 분류
 
